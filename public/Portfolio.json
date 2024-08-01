@@ -1,0 +1,149 @@
+{
+    "hero": {
+      "name": "Kelvin Chaguay Lopez",
+      "title": "Programmer | Cyber Security | IT",
+      "description": "I thrive on the challenge of creating user-friendly and secure applications. I have improve my programming skills in languages such as HTML, CSS, TypeScript, Java, along with frameworks like React, and Node.js",
+      "imageUrl": "/images/profile.jpg"
+    },
+    "about": {
+      "description": "I'm a developer with 3 years of experience in building web applications. I specialize in React, TypeScript, Node.js, and SQL. I am interested in the technology and security field. I continuously seek to expand my knowledge in Cyber Security, staying updated on the latest treats.",
+      "highlights": [
+        "3+ years of experience",
+        "Expertise in React and Java",
+        "Strong problem-solving skills",
+        "Committed to writing clean, maintainable code"
+      ]
+    },
+    "skills": [
+      { "name": "Java", "level": 85 },
+      { "name": "TypeScript", "level": 85 },
+      { "name": "Node.js", "level": 70 },
+      { "name": "Python", "level": 75 },
+      { "name": "Haskell", "level": 70 },
+      { "name": "SQL", "level": 70 },
+      { "name": "React", "level": 80 },
+      { "name": "Info Sec", "level": 70 },
+      { "name": "Linux", "level": 80 },
+      { "name": "Public Speaking", "level": 70 },
+      { "name": "SIEM tools", "level": 70 },
+      { "name": "Snort", "level": 70 },
+      { "name": "Analyst", "level": 85 },
+      { "name": "Networking", "level": 90 },
+      { "name": "OS Hardenning", "level": 80 },
+      { "name": "Pentester", "level": 60 }
+
+      
+
+    ],
+    "experience1": [
+      {
+        "company": "Southern Connecticut Sate University.",
+        "position": "Master of Science",
+        "duration": "2024 - present",
+        "description": "Concentration: Cybersecurity."
+      },
+      {
+        "company": "Southern Connecticut Sate University.",
+        "position": "Bachelor of Science",
+        "duration": "2022 - 2024",
+        "description": "Minor: Mathematics."
+      },
+      {
+        "company": "Norwalk Community College.",
+        "position": "Associate in Science",
+        "duration": "2018 - 2020",
+        "description": "Genral Studies."
+      },
+      {
+        "company": "Stamford High School.",
+        "position": "Diploma",
+        "duration": "2013 - 2017",
+        "description": "Black Knights Football Team."
+      }
+    ],
+   
+
+    "experience": [
+      {
+        "company": "CompTIA Security+",
+        "position": "Self-Learning",
+        "duration": "2024 - present",
+        "description": "General Security, Threats, Security Architecture, Security Operations, and Management."
+      },
+      {
+        "company": "Google IT/Cybersecurity/Project Manager certifications",
+        "position": "Certified",
+        "duration": "2024 - present",
+        "description": "Hands on Labs and foundational knowledge."
+      },
+      {
+        "company": "CMMC Certified Professional(CCP)",
+        "position": "Self-Learning",
+        "duration": "2024 - present",
+        "description": "Safeguard sensitive information, DoD requirements, Cyber resilience, and Public trust."
+      },
+      {
+        "company": "AI/ AWS / Workplace Certifications",
+        "position": "Self-Learning",
+        "duration": "2024 - present",
+        "description": "Fundamentals of AI and cloud technology concepts/certifications."
+      },
+      {
+        "company": "ISC2- Certified in Cybersecurity",
+        "position": "Self-Learning",
+        "duration": "2024 - present",
+        "description": "Hands on Labs and foundational knowledge."
+      },
+      {
+        "company": "JAVA Explorer certification",
+        "position": "Certified",
+        "duration": "2024 - present",
+        "description": "Hands on Labs and foundational Java programming knowledge."
+      },
+      {
+        "company": "Norwalk Community College.",
+        "position": "Student Worker",
+        "duration": "2018 - 2020",
+        "description": "Collaborated with team members to meet daily productivity targets and deadlines"
+      },
+      {
+        "company": "Stamford Hospital",
+        "position": "Patient Registration Representative(Volunteering)",
+        "duration": "2013 - 2017",
+        "description": "Handle and process confidential patient information. Assisted patients with the appoitment registration process."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Strife -- Full Stack Chat Application",
+        "description": "A full-featured online chat application built with React, Node.js, and MongoDB.",
+        "imageUrl": "/images/ecommerce-project.jpg",
+        "link": "https://github.com/KelvinChaguay/Strifev1"
+      },
+      {
+        "title": "Password-Crack",
+        "description": "A project using Hashcat and Linux commands.",
+        "imageUrl": "/images/task-app.jpg",
+        "link": "https://github.com/kelvinscuela/Password-Crack"
+      },
+      {
+        "title": "Mersenne Primes",
+        "description": "A Java GUI Application using advance programming concepts.",
+        "imageUrl": "/images/task-app.jpg",
+        "link": "https://github.com/kelvinscuela/Mat-178-Project"
+      },
+      {
+        "title": "OWL Ride application",
+        "description": "A SQL application with html, css, bootstrap, and google cloud terminology.",
+        "imageUrl": "/images/task-app.jpg",
+        "link": "https://github.com/KelvinChaguay/csc330-test1"
+      }
+
+    ],
+    "contact": {
+      "email": "kelvinscuela13@gmail.com",
+      "phone": "+1 (203) 912-1139",
+      "linkedin": "https://www.linkedin.com/in/kelvin-lopez-4b7480293",
+      "github": "https://github.com/kelvinscuela"
+    }
+  }
